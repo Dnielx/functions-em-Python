@@ -18,7 +18,7 @@ def main():
     nota2 = float(input("Digite a segunda nota: "))
 
     media = conta(nota1, nota2)
-    resultado = notas(meda)
+    resultado = notas(media)
 
     print(resultado)
     print("Obrigado por usar a calculadora de média escolar!")
